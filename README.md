@@ -147,7 +147,7 @@ Navigate to **http://localhost:5173**
 | Field | Value |
 |---|---|
 | **Email** | `staff@skyjet.com` |
-| **Password** | `password123` |
+| **Password** | `StaffDemo123` |
 | **Role** | Staff (access to `/admin` dashboard) |
 
 Login at `/login` → you'll be redirected to the **Staff Dashboard** automatically.
